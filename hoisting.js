@@ -22,3 +22,4 @@ var sayMyName = function() {
 // fix the code in here:
   var name;
   name = "Cricky";
+  
