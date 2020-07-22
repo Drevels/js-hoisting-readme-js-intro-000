@@ -25,4 +25,6 @@ var sayMyName = function() {
    function sayMy() {
     name = "Kristin"; // took out var before name here
     console.log(name);
-    
+   }
+  sayMy();
+}
