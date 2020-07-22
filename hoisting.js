@@ -29,3 +29,13 @@ var sayMyName = function() {
   sayMy();
 }
 sayMyName()()
+
+var crazy = function(){
+  var thisIsCrazy = function(){
+    console.log("hey!!!")
+  }
+  thisIsCrazy();
+}
+crazy()
+
+  }
